@@ -1,3 +1,5 @@
+# file generate by scripts
 gfwlist.txt
-gfwlist.b64
-gfwlist.action
+gfwlist_decode
+gfw.action
+
